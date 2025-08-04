@@ -1,5 +1,43 @@
+# Maven / Gradle build files
 /target/
+/build/
+
+# IntelliJ / Eclipse / VS Code project files
 .idea/
-*.iml
+/*.iml
+*.class
+*.project
+*.classpath
+*.settings/
+.vscode/
+
+# Logs
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Application specific
 application.properties
+application.yml
+.env
+
+# Backup files
+*.bak
+
+# Files from Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Uploaded files (if any)
+File/dwnlds/
+*.mp4
+*.mkv
+
+# Test reports
+/test-output/
