@@ -31,19 +31,19 @@ bash
 Copy
 Edit
 SidClass-LocalAuth
- ├── src/main/java/com/learn/SidClasses
- │    ├── Configs/          # Security, Swagger, Project configurations
- │    ├── Controller/       # REST API controllers
- │    ├── Entities/         # JPA entities
- │    ├── Repository/       # Data access layers
- │    ├── Service/          # Business logic
- │    ├── Security/         # Spring Security setup
- │    └── SidClassesApplication.java
- ├── src/main/resources/
- │    ├── templates/        # Login pages
- │    ├── application.properties
- ├── pom.xml
- └── README.md
+├── src/main/java/com/learn/SidClasses
+│    ├── Configs/          # Security, Swagger, Project configurations
+│    ├── Controller/       # REST API controllers
+│    ├── Entities/         # JPA entities
+│    ├── Repository/       # Data access layers
+│    ├── Service/          # Business logic
+│    ├── Security/         # Spring Security setup
+│    └── SidClassesApplication.java
+├── src/main/resources/
+│    ├── templates/        # Login pages
+│    ├── application.properties
+├── pom.xml
+└── README.md
 🚀 Running the Project
 1️⃣ Clone the repository
 bash
